@@ -17,8 +17,6 @@ class _TabNavigatorState extends State<TabNavigator> {
   int _currentIndex = 0;
   int _currentPage = 0;
 
-
-
   @override
   Widget build(BuildContext context) {
 

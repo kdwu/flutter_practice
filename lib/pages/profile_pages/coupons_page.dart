@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_pratice/pages/profilepages/separator_widget.dart';
+import 'package:flutter_pratice/pages/profile_pages/separator_widget.dart';
 
 class CouponsPage extends StatefulWidget {
   const CouponsPage({Key? key}) : super(key: key);
@@ -61,7 +61,7 @@ class _CouponsPageState extends State<CouponsPage> {
               child: Stack(
                 children: <Widget>[
                   Container(
-                    margin: EdgeInsets.only(left: 12, top: 10, right: 12),
+                    margin: EdgeInsets.only(left: 12, top: 12, right: 12),
                     color: Colors.white,
                     child: Column(
                       children: <Widget>[

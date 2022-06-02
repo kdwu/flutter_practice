@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_pratice/pages/profilepages/coupons_page.dart';
+import 'package:flutter_pratice/pages/profile_pages/coupons_page.dart';
 
 class ProfilePage extends StatefulWidget {
   const ProfilePage({Key? key}) : super(key: key);
